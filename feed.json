@@ -9,17 +9,5 @@
         "name": "Aiden Schramm"
     },
     "items": [
-        {
-            "id": "https://www.aidenschramm.com/test.html",
-            "url": "https://www.aidenschramm.com/test.html",
-            "title": "Test",
-            "author": {
-                "name": "Aiden Schramm"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-10-31T18:39:31-05:00",
-            "date_modified": "2019-10-31T18:39:31-05:00"
-        }
     ]
 }
