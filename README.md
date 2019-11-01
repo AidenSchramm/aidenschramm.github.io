@@ -1,1 +1,0 @@
-# aidenschramm.github.io
