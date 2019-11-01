@@ -3,10 +3,36 @@
     <title>Aiden Schramm</title>
     <link href="https://www.aidenschramm.com/feed.xml" rel="self" />
     <link href="https://www.aidenschramm.com" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2019-10-31T20:37:45-05:00</updated>
     <author>
         <name>Aiden Schramm</name>
     </author>
     <id>https://www.aidenschramm.com</id>
 
+    <entry>
+        <title>Web-based server administration made easy</title>
+        <author>
+            <name>Aiden Schramm</name>
+        </author>
+        <link href="https://www.aidenschramm.com/web-based-server-administration-made-easy.html"/>
+        <id>https://www.aidenschramm.com/web-based-server-administration-made-easy.html</id>
+
+        <updated>2019-10-31T20:37:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I've tried a wide variety of different web interfaces for server adminstration. Some were extremely powerful and extensible, but were an absolute pain to deal with on a regular basis. After a good deal of searching for the perfect software, Ajenti seemed to check each and every box I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've tried a wide variety of different web interfaces for server adminstration. Some were extremely powerful and extensible, but were an absolute pain to deal with on a regular basis. After a good deal of searching for the <em>perfect</em> software, Ajenti seemed to check each and every box I was looking for.</p>
+<p><a href="http://ajenti.org/" target="_blank" rel="noopener noreferrer">http://ajenti.org</a></p>
+<p><img class="post__image--left" src="https://www.aidenschramm.com/media/posts/2/ajenti.png" alt="Ajenti web interface" width="534" height="300"></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

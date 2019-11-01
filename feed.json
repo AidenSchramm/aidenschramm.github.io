@@ -9,5 +9,19 @@
         "name": "Aiden Schramm"
     },
     "items": [
+        {
+            "id": "https://www.aidenschramm.com/web-based-server-administration-made-easy.html",
+            "url": "https://www.aidenschramm.com/web-based-server-administration-made-easy.html",
+            "title": "Web-based server administration made easy",
+            "summary": "I've tried a wide variety of different web interfaces for server adminstration. Some were extremely powerful and extensible, but were an absolute pain to deal with on a regular basis. After a good deal of searching for the perfect software, Ajenti seemed to check each and every box I&hellip;",
+            "content_html": "<p>I've tried a wide variety of different web interfaces for server adminstration. Some were extremely powerful and extensible, but were an absolute pain to deal with on a regular basis. After a good deal of searching for the <em>perfect</em> software, Ajenti seemed to check each and every box I was looking for.</p>\n<p><a href=\"http://ajenti.org/\" target=\"_blank\" rel=\"noopener noreferrer\">http://ajenti.org</a></p>\n<p><img class=\"post__image--left\" src=\"https://www.aidenschramm.com/media/posts/2/ajenti.png\" alt=\"Ajenti web interface\" width=\"534\" height=\"300\"></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Aiden Schramm"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-31T20:37:19-05:00",
+            "date_modified": "2019-10-31T20:37:42-05:00"
+        }
     ]
 }
