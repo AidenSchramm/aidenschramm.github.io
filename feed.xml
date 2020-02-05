@@ -3,12 +3,34 @@
     <title>Aiden Schramm</title>
     <link href="https://www.aidenschramm.com/feed.xml" rel="self" />
     <link href="https://www.aidenschramm.com" />
-    <updated>2019-10-31T21:10:59-05:00</updated>
+    <updated>2020-02-05T15:44:59-06:00</updated>
     <author>
         <name>Aiden Schramm</name>
     </author>
     <id>https://www.aidenschramm.com</id>
 
+    <entry>
+        <title>Ubuntu Budgie</title>
+        <author>
+            <name>Aiden Schramm</name>
+        </author>
+        <link href="https://www.aidenschramm.com/ubuntu-budgie/"/>
+        <id>https://www.aidenschramm.com/ubuntu-budgie/</id>
+
+        <updated>2020-02-05T15:44:53-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.aidenschramm.com/media/posts/3/Screenshot-from-2020-02-05-15-40-08.png" alt="" />
+                    Many linux afficionados are very passionate about their distribution of choice, with thousands of threads and blog posts all across the web proclaiming that all other distros pale in comparison. I myself enjoy Ubuntu, however vanilla Gnome 3 is extremely resource intensive, and not at&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.aidenschramm.com/media/posts/3/Screenshot-from-2020-02-05-15-40-08.png" alt="" />
+                Many linux afficionados are very passionate about their distribution of choice, with thousands of threads and blog posts all across the web proclaiming that all other distros pale in comparison. I myself enjoy Ubuntu, however vanilla Gnome 3 is extremely resource intensive, and not at all suited to running on slightly lower end devices. Thusly, I use Ubuntu Budgie, which consists of Ubuntu coupled with a port of the Budgie desktop from Solus 4.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Web-based server administration made easy</title>
         <author>

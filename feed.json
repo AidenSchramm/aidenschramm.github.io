@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.aidenschramm.com/ubuntu-budgie/",
+            "url": "https://www.aidenschramm.com/ubuntu-budgie/",
+            "title": "Ubuntu Budgie",
+            "summary": "Many linux afficionados are very passionate about their distribution of choice, with thousands of threads and blog posts all across the web proclaiming that all other distros pale in comparison. I myself enjoy Ubuntu, however vanilla Gnome 3 is extremely resource intensive, and not at&hellip;",
+            "content_html": "Many linux afficionados are very passionate about their distribution of choice, with thousands of threads and blog posts all across the web proclaiming that all other distros pale in comparison. I myself enjoy Ubuntu, however vanilla Gnome 3 is extremely resource intensive, and not at all suited to running on slightly lower end devices. Thusly, I use Ubuntu Budgie, which consists of Ubuntu coupled with a port of the Budgie desktop from Solus 4.",
+            "image": "https://www.aidenschramm.com/media/posts/3/Screenshot-from-2020-02-05-15-40-08.png",
+            "author": {
+                "name": "Aiden Schramm"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-05T15:44:53-06:00",
+            "date_modified": "2020-02-05T15:44:53-06:00"
+        },
+        {
             "id": "https://www.aidenschramm.com/web-based-server-administration-made-easy/",
             "url": "https://www.aidenschramm.com/web-based-server-administration-made-easy/",
             "title": "Web-based server administration made easy",
